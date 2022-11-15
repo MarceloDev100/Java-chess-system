@@ -2,9 +2,6 @@ package application;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
-import javax.swing.plaf.basic.BasicOptionPaneUI.ButtonActionListener;
-
 import chess.ChessPiece;
 import chess.ChessPosition;
 import chess.Color;
